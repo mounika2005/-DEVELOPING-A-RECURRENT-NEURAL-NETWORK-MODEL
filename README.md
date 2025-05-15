@@ -1,4 +1,4 @@
-### DL- Developing a Recurrent Neural Network Model for Stock Prediction
+#### DL- Developing a Recurrent Neural Network Model for Stock Prediction
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
